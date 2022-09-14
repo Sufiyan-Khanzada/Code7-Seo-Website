@@ -250,9 +250,13 @@ Midsize and Enterprise Companies</h4>
       <div class="row align-items-center">
          <div class="col-lg-10 mx-auto">
             <div class="inner-banner-text text-center "  data-aos="fade-down" data-aos-duration="1000">
-               <h1>Earn Top Search Rankings & Increase Your Conversions</h1>
-               <p class="text-white">SEO TOP SEARCH is a professional and leading local SEO agency to provide the most reliable local SEO solution that your brand’s website has been asking you. Our team of experts combined their minds to come up with the most constructive strategy that can help your customers find you locally.</p>
-                <p class="text-white">Without local SEO optimization, your business could leave out some of the most influencing and incredible potential consumers. Fear not, as we have the best solution for you, and we commit to promote your business to the right audience.</p>
+               <h1>Obtain the Best Search Rankings & Boost Your Conversions</h1>
+               <p class="text-white">To provide the most dependable local SEO solution that your brand's website has been 
+requesting, turn to SEO TOP SEARCH, a leading local SEO service. Our team of specialists pooled 
+their knowledge to develop the most effective plan for assisting local consumers in finding you.</p>
+                <p class="text-white">Without local SEO optimization, your company may miss out on some of the most amazing and 
+influential prospective customers. Do not be alarmed; we have the greatest answer for you and 
+we pledge to market your company to the appropriate demographic</p>
                <img src="images/partners.png"  data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200" data-aos-offset="0" class="brand-img img-responsive" alt="Banner">
             </div>
          </div>
@@ -283,7 +287,7 @@ Midsize and Enterprise Companies</h4>
                <span class="head-upper"></span>
                <span class="head-after"></span>
             </div>
-            <h3 class="section-head">How we elevate local businesses?</h3>
+            <h3 class="section-head">How can we promote regional companies?</h3>
          </div>
       </div>
       <div class="timeline-middlepath">
@@ -300,8 +304,9 @@ Midsize and Enterprise Companies</h4>
             <div class="col-md-5 col-sm-6 col-9">
                <div class="time-desc"  data-aos="fade-right" data-aos-duration="1000">
                   <span>01</span>
-                  <span class="box-head text-uppercase">Analyzing Competitors</span>
-                  <p>We keep an eye around to know the competition and keep ourselves updated with the latest techniques to help your brand with the local SEO implementation.</p>
+                  <span class="box-head text-uppercase">PERSPECTIVE ON COMPETITORS</span>
+                  <p>To assist your business with the implementation of local SEO, we keep an eye out for the 
+competition and stay up with the most recent approaches.</p>
                </div>
             </div>
             <div class="col-md-5 col-sm-6 col-3  offset-md-2">
@@ -321,8 +326,9 @@ Midsize and Enterprise Companies</h4>
             <div class="col-md-5 col-sm-6  col-9 offset-md-2">
                <div class="time-desc"  data-aos="fade-left" data-aos-duration="1000">
                   <span>02</span>
-                     <span class="box-head text-uppercase">Curating Captivating Content</span>
-                  <p>When it comes to keeping your business unique and exclusive from your competitors, we use the 3Cs strategy – Curating Captivating Content!</p>
+                     <span class="box-head text-uppercase">MANAGEMENT OF CAPTIVATING CONTENT</span>
+                  <p>We use the 3Cs method of curating captivating content, to maintain your company distinct and 
+distinctive from those of your rivals.</p>
                </div>
             </div>
          </div>
@@ -332,8 +338,9 @@ Midsize and Enterprise Companies</h4>
             <div class="col-md-5 col-sm-6 col-9">
                <div class="time-desc"  data-aos="fade-right" data-aos-duration="1000">
                   <span>03</span>
-                  <span class="box-head text-uppercase">Converting Audience Into Clients</span>
-                  <p>Our goal is not only to bring bigger traffic to your website. Rather we are focused on converting the traffic into customers to help you make sales.</p>
+                  <span class="box-head text-uppercase">TURNING AUDIENCES INTO CLIENTS</span>
+                  <p>Our aim goes beyond just increasing website traffic. Instead, our priority is to turn visitors into 
+paying clients so you can increase your revenue.</p>
                </div>
             </div>
             <div class="col-md-5 col-sm-6 col-3  offset-md-2">
@@ -353,8 +360,9 @@ Midsize and Enterprise Companies</h4>
             <div class="col-md-5 col-sm-6 col-9 offset-md-2">
                <div class="time-desc"  data-aos="fade-left" data-aos-duration="1000">
                   <span>04</span>
-                  <span class="box-head text-uppercase">Boosting Your ROI</span>
-                  <p>With increased traffic comes the opportunity to target potential buyers. That is where our purpose is served of elevating your ROI.</p>
+                  <span class="box-head text-uppercase">IMPROVE YOUR ROI</span>
+                  <p>Increasing traffic gives you the chance to focus on prospective customers. That is where we 
+achieve our goal of improving your ROI</p>
                </div>
             </div>
          </div>
@@ -380,15 +388,17 @@ Midsize and Enterprise Companies</h4>
                   <span class="head-upper"></span>
                   <span class="head-after"></span>
                </div>
-               <h3 class="section-head">Bigger Traffic. Increased Sales. Greater ROI.</h3>
-               <p>As a leading local SEO company, SEO TOP SEARCH offers you a comprehensive set of the most affordable local SEO optimization services. Our team of local SEO experts is on a mission to serve our clients with the services that can assist them in generating better sales and greater conversions from their prospects.</p>
+               <h3 class="section-head">Increased Traffic. Better Business. Greater (ROI)</h3>
+               <p>SEO TOP SEARCH is the best local SEO service and we can optimize your site for the lowest 
+possible cost. To help our customers increase sales and conversions, our local SEO team is 
+committed to providing them with the best possible services.</p>
                <ul class="theme-list">
-                  <li><p>Site Audit & SEO insights</p></li>
-                  <li><p>Increase traffic</p></li>
-                  <li><p>Generate leads</p></li>
-                  <li><p>Connect your audience</p></li>
-                  <li><p>Long-Lasting Ranking</p></li>
-                  <li><p>Instant Feedback</p></li>
+                  <li><p> SEO Insights & Site Analysis</p></li>
+                  <li><p> Boost traffic</p></li>
+                  <li><p>Lead generation</p></li>
+                  <li><p>Engage your target market</p></li>
+                  <li><p> A Rating That Lasts Forever</p></li>
+                  <li><p> Rapid Response</p></li>
                </ul>
                <a class="theme-btn light-gradient" href="grow-form.php">Lets Grow Your Business</a>
             </div>
@@ -408,9 +418,10 @@ Midsize and Enterprise Companies</h4>
                   <span class="head-upper"></span>
                   <span class="head-after"></span>
                </div>
-               <h3 class="section-head">Increase your Conversion Rate Via Budget-Friendly Local SEO Services
+               <h3 class="section-head">Cost-Effective Local SEO Services Can Boost Your Conversion Rate
                </h3>
-               <p>Talk with our support team to find out how you can benefit from a partnership with SEO TOP SEARCH.</p>
+               <p>Consult with our service staff to learn more about the advantages of working with 
+SEO TOP SEARCH.</p>
             </div>
          </div>
       </div>
