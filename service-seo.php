@@ -252,9 +252,17 @@ Midsize and Enterprise Companies</h4>
       <div class="row align-items-center">
          <div class="col-lg-10 mx-auto">
             <div class="inner-banner-text text-center "  data-aos="fade-down" data-aos-duration="1000">
-               <h1>Solutions That Increase Traffic & Boost Sales</h1>
-               <p class="text-white">SEO TOP SEARCH is a leading eCommerce SEO company to understand the significance of search engine optimization for brands. We work on enhancing your eCommerce store’s rankings with the determination of making our unique and effective SEO strategies work out exceptionally well. Our team of finest SEO experts ensures to perform the eCommerce search engine optimization that does not shine bright on the top results of the search engine like Google but also to help you improve your sales and increase ROI.</p>
-                <p class="text-white">Worry not if your eCommerce store does not rank on top of Google. We are here to solve your problem with our constructive and affordable eCommerce SEO services.</p>
+               <h1>Methods Proven to Raise Foot Traffic and Retail Profits</h1>
+               <p class="text-white">SEO TOP SEARCH is the go-to SEO firm because they fully grasp the importance of SEO for 
+businesses. Using our one-of-a-kind and highly effective SEO strategies, we work tirelessly to 
+improve the visibility of your online shop. Our top-tier SEO specialists will make sure that your 
+eCommerce site is optimized in such a way that it not only ranks highly in search engines like 
+Google but also generates a positive return on investment.</p>
+                <p class="text-white">SEO TOP SEARCH is the go-to SEO firm because they fully grasp the importance of SEO for 
+businesses. Using our one-of-a-kind and highly effective SEO strategies, we work tirelessly to 
+improve the visibility of your online shop. Our top-tier SEO specialists will make sure that your 
+eCommerce site is optimized in such a way that it not only ranks highly in search engines like 
+Google but also generates a positive return on investment.</p>
                <img src="images/partners.png"  data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200" data-aos-offset="0" class="brand-img img-responsive" alt="Banner">
             </div>
          </div>
@@ -285,7 +293,7 @@ Midsize and Enterprise Companies</h4>
                <span class="head-upper"></span>
                <span class="head-after"></span>
             </div>
-            <h3 class="section-head">How our eCommerce SEO solutions get you on top?</h3>
+            <h3 class="section-head">How do you reach the top with our eCommerce SEO solutions?</h3>
          </div>
       </div>
       <div class="timeline-middlepath">
@@ -302,8 +310,9 @@ Midsize and Enterprise Companies</h4>
             <div class="col-md-5 col-sm-6 col-9">
                <div class="time-desc"  data-aos="fade-right" data-aos-duration="1000">
                   <span>01</span>
-                  <span class="box-head text-uppercase">Keyword Identification</span>
-                  <p>Our team ensures to identify and extract all the necessary keywords utilizing professional tools to help your eCommerce site rank at the top of the search engine</p>
+                  <span class="box-head text-uppercase">IDENTIFICATION OF KEYWORD</span>
+                  <p>To help your eCommerce site rank at the top of the search engine, our team makes sure to locate 
+and extract every necessary keyword using tools of the trade</p>
                </div>
             </div>
             <div class="col-md-5 col-sm-6 col-3  offset-md-2">
@@ -323,8 +332,9 @@ Midsize and Enterprise Companies</h4>
             <div class="col-md-5 col-sm-6  col-9 offset-md-2">
                <div class="time-desc"  data-aos="fade-left" data-aos-duration="1000">
                   <span>02</span>
-                     <span class="box-head text-uppercase">Product & Navigation Optimization</span>
-                  <p>Utilizing the most advanced and latest tools, we help you optimize your product navigation, backing up your website’s SEO, and help it reach the top rankings.</p>
+                     <span class="box-head text-uppercase">OPTIMIZATION OF PRODUCT & NAVIGATION</span>
+                  <p>We assist you in optimizing your product navigation, supporting your website's SEO, and helping 
+it to rank highly by utilizing the most cutting-edge and modern tools.</p>
                </div>
             </div>
          </div>
@@ -334,8 +344,10 @@ Midsize and Enterprise Companies</h4>
             <div class="col-md-5 col-sm-6 col-9">
                <div class="time-desc"  data-aos="fade-right" data-aos-duration="1000">
                   <span>03</span>
-                  <span class="box-head text-uppercase"> Content Creation</span>
-                  <p>Our dexterous writers make sure to jot down the finest content for your website, including the product descriptions. Our goal is to gain traffic through our top-notch and SEO-friendly content.</p>
+                  <span class="box-head text-uppercase"> CREATION OF CONTENT</span>
+                  <p>Our skillful writers make sure to write the best content, including the product descriptions, for 
+your website. Our objective is to increase traffic through the use of excellent, SEO-friendly 
+content</p>
                </div>
             </div>
             <div class="col-md-5 col-sm-6 col-3  offset-md-2">
@@ -355,8 +367,9 @@ Midsize and Enterprise Companies</h4>
             <div class="col-md-5 col-sm-6 col-9 offset-md-2">
                <div class="time-desc"  data-aos="fade-left" data-aos-duration="1000">
                   <span>04</span>
-                  <span class="box-head text-uppercase">Keyword Implementation</span>
-                  <p>We understand that the content without incorporating proper keywords is trash, so we ensure to back up our content with suitable keyword implementation to make it SEO-friendly.</p>
+                  <span class="box-head text-uppercase">IMPLEMENT KEYWORDS</span>
+                  <p>We know that content without the right keywords in it is garbage, so we make sure to support
+our content with the right keywords to make it SEO-friendly.</p>
                </div>
             </div>
          </div>
@@ -382,15 +395,18 @@ Midsize and Enterprise Companies</h4>
                   <span class="head-upper"></span>
                   <span class="head-after"></span>
                </div>
-               <h3 class="section-head">We strive to transform you into a Leading Online Merchant!</h3>
-               <p>SEO TOP SEARCH utilizes the eCommerce SEO strategy that is custom-built and ready to meet the desired needs of our valuable clients. We totally comprehend the uniqueness and exclusivity of your business. Our aim is to provide you with the most startling eCommerce SEO packages to cater to your online store’s needs.</p>
+               <h3 class="section-head">We work hard to make you a Leading Online Merchant!</h3>
+               <p>The eCommerce SEO approach used by SEO TOP SEARCH was created specifically to satisfy the 
+demands of our esteemed customers. We fully appreciate how special and exclusive your 
+company is. To meet the demands of your online business, our goal is to provide you with the 
+most astounding eCommerce SEO packages</p>
                <ul class="theme-list">
-                  <li><p>Analyze Your Competition</p></li>
-                  <li><p>Elevate Keywords Position</p></li>
-                  <li><p>Increase Organic Search</p></li>
-                  <li><p>Lift in User’s Engagement</p></li>
-                  <li><p>Increase in Conversions</p></li>
-                  <li><p>Boost in Total Revenue</p></li>
+                  <li><p>Examine Your Rivals</p></li>
+                  <li><p> Heighten Position of Keywords</p></li>
+                  <li><p> Boost Organic Search</p></li>
+                  <li><p>Increase in User Engagement</p></li>
+                  <li><p>Higher Conversion Rates</p></li>
+                  <li><p>Increased Total Revenue</p></li>
                </ul>
                <a class="theme-btn light-gradient" href="grow-form.php">Lets Grow Your Business</a>
             </div>
@@ -410,9 +426,10 @@ Midsize and Enterprise Companies</h4>
                   <span class="head-upper"></span>
                   <span class="head-after"></span>
                </div>
-               <h3 class="section-head">Establish Your eCommerce Business at Budget-Friendly Plans
+               <h3 class="section-head">Establish Your Ecommerce Store with Economical Plans
                </h3>
-               <p>Speak with our team of eCommerce SEO experts if you want to take your eCommerce performance to the next level at budget-friendly packages.</p>
+               <p>If you want to boost your eCommerce performance at a reasonable price, get in 
+touch with our team of SEO specialists for eCommerce.</p>
             </div>
          </div>
       </div>
