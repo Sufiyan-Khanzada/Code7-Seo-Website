@@ -20,7 +20,7 @@
          Heads up! We require that you sign up for Weblogies services and packages. We make all your dreams come true in a successful project.
       </p>
     
-      <form  id="package_fom" method="POST" action="https://searchmetop.com/include/sendmail.php">
+      <form  id="package_form" method="POST" action="https://searchmetop.com/include/sendmail.php">
         
                  <input type="hidden" required name="page_url" value="https://searchmetop.com/privacy" />
         
