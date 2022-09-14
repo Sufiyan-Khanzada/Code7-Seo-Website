@@ -252,8 +252,14 @@ Midsize and Enterprise Companies</h4>
       <div class="row align-items-center">
          <div class="col-lg-10 mx-auto">
             <div class="inner-banner-text text-center "  data-aos="fade-down" data-aos-duration="1000">
-               <h1>Creating content that inspires and engages</h1>
-               <p class="text-white">Curating website content that drives conversions turning your website visitors into loyal customers is what our experts do. Working with a team of brilliant writers, we deliver website content writing services that indulge the users with great content. We are trained professionals working to meet your branding needs and craft compelling content that drives results. No matter the industry of work, experts at SEO TOP SEARCH create engaging content that tells your brand story to the audience while influencing their decisions</p>
+               <h1>The art of creating material that moves and excites an audience.</h1>
+               <p class="text-white">Website content creation geared toward increasing sales. The goal of our seasoned 
+professionals is to convert casual browsers into dedicated followers of your online business. We 
+provide website content writing services backed by a crack staff of authors that aim to please 
+your readers. As skilled specialists, we aim to fulfill your branding requirements and create 
+engaging content that generates outcomes. Professionals at SEO TOP SEARCH develop 
+attention-grabbing content regardless of your line of business, allowing you to express your 
+brand's narrative and influence consumers' purchasing choices</p>
                <img src="images/partners.png"  data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200" data-aos-offset="0" class="brand-img img-responsive" alt="Banner">
             </div>
          </div>
@@ -284,7 +290,7 @@ Midsize and Enterprise Companies</h4>
                <span class="head-upper"></span>
                <span class="head-after"></span>
             </div>
-            <h3 class="section-head">Driving business growth with website copywriting services</h3>
+            <h3 class="section-head">Web content authoring services that boost revenue.</h3>
          </div>
       </div>
       <div class="timeline-middlepath">
@@ -301,8 +307,10 @@ Midsize and Enterprise Companies</h4>
             <div class="col-md-5 col-sm-6 col-9">
                <div class="time-desc"  data-aos="fade-right" data-aos-duration="1000">
                   <span>01</span>
-                  <span class="box-head text-uppercase">Analyzing client requirement </span>
-                  <p>We are website copywriting experts working closely with our clients to understand their requirements and curate content that tells their story to their audience.</p>
+                  <span class="box-head text-uppercase">EVALUATING THE NEEDS OF THE CUSTOMER </span>
+                  <p>To better serve our customers, we work closely with them to ascertain their exact needs for 
+their websites and then carefully choose a material that best conveys their message to site 
+visitors,</p>
                </div>
             </div>
             <div class="col-md-5 col-sm-6 col-3  offset-md-2">
@@ -322,8 +330,9 @@ Midsize and Enterprise Companies</h4>
             <div class="col-md-5 col-sm-6  col-9 offset-md-2">
                <div class="time-desc"  data-aos="fade-left" data-aos-duration="1000">
                   <span>02</span>
-                     <span class="box-head text-uppercase">Highly researched Content</span>
-                  <p>Ensuring researched content backed with sufficient information ensuring to solve the problems of your website visitors</p>
+                     <span class="box-head text-uppercase">EXTENSIVELY REFERENCED MATERIAL</span>
+                  <p>Make sure your website has content that has been researched and is backed up by enough 
+information to help people who visit it with their problems.</p>
                </div>
             </div>
          </div>
@@ -333,8 +342,9 @@ Midsize and Enterprise Companies</h4>
             <div class="col-md-5 col-sm-6 col-9">
                <div class="time-desc"  data-aos="fade-right" data-aos-duration="1000">
                   <span>03</span>
-                  <span class="box-head text-uppercase">Social Media Friendly</span>
-                  <p>The content creation experts at SEO TOP SEARCH ensure content that captures the audience's attention through social media platforms</p>
+                  <span class="box-head text-uppercase">FRIENDLY TO SOCIAL NETWORKS:</span>
+                  <p>SEO TOP SEARCH has professionals in content production that guarantee attention-grabbing 
+social media posts</p>
                </div>
             </div>
             <div class="col-md-5 col-sm-6 col-3  offset-md-2">
@@ -354,8 +364,10 @@ Midsize and Enterprise Companies</h4>
             <div class="col-md-5 col-sm-6 col-9 offset-md-2">
                <div class="time-desc"  data-aos="fade-left" data-aos-duration="1000">
                   <span>04</span>
-                  <span class="box-head text-uppercase">SEO friendly </span>
-                  <p>We curate content that is SEO friendly and can attract traffic through search engines. We ensure services that meet the needs of the clients.</p>
+                  <span class="box-head text-uppercase">USER-FRIENDLY FOR SEARCH ENGINE OPTIMIZATION: </span>
+                  <p>To boost organic search engine traffic, we only provide information that we know to be search 
+engine optimized. Our services are guaranteed to be tailored to each customer.
+</p>
                </div>
             </div>
          </div>
@@ -381,14 +393,19 @@ Midsize and Enterprise Companies</h4>
                   <span class="head-upper"></span>
                   <span class="head-after"></span>
                </div>
-               <h3 class="section-head">Our results-driven approach helps us stand out!</h3>
-               <p>Using the expertise of our dexterous writers, we ensure web content creation service to clients from a broad spectrum of industries. Whether you want web content for your website or blog content to attract the audience, SEO TOP SEARCH is the platform where you can get it all!</p>
-               <p>Our experts make every effort to promote the client’s brand with captivating content ensuring to build a strong client-brand relationship by connecting the audience with our client’s business. We are all ears when it comes to understanding your unique content requirements!</p>
+               <h3 class="section-head">Our focus on outcomes sets us apart</h3>
+               <p>Through the skill of our writers, we provide online content production services to businesses 
+across many different sectors. SEO TOP SEARCH is the place to go if you need web content for 
+your website or blog material to draw in readers. When promoting a client's brand, our 
+professionals go the extra mile to make the material interesting and relevant to the target 
+audience, thereby strengthening the bond between the client and the brand. When it comes to 
+grasping your specific content needs, we have all ears</p>
+               <!-- <p>Our experts make every effort to promote the client’s brand with captivating content ensuring to build a strong client-brand relationship by connecting the audience with our client’s business. We are all ears when it comes to understanding your unique content requirements!</p> -->
                <ul class="theme-list">
-                  <li><p>Delivering Top quality content  </p></li>
-                  <li><p>ensured Creativity and uniqueness </p></li>
-                  <li><p>devoted support of our writers </p></li>
-                  <li><p>Pocket-friendly Prices</p></li>
+                  <li><p>Providing Superb Material</p></li>
+                  <li><p> Guaranteed Originality and Imagination </p></li>
+                  <li><p> Commitment to our author's success </p></li>
+                  <li><p> Affordable Rates</p></li>
                   
                </ul>
                <a class="theme-btn light-gradient" href="grow-form.php">Lets Grow Your Business</a>
@@ -410,10 +427,11 @@ Midsize and Enterprise Companies</h4>
                   <span class="head-after"></span>
                </div>
                <h3 class="section-head">
-                  Engaging Audience with Cost-effective website copywriting services
+               Attractive and Affordable Website Copywriting Services
 
                </h3>
-               <p>We are copywriting expert delivering affordable website content services that connects and communicate with their audience.  </p>
+               <p>As professional writers, we provide businesses with cheap website content services that 
+effectively reach and engage their target demographic</p>
             </div>
          </div>
       </div>
