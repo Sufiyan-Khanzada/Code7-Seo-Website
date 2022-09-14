@@ -426,7 +426,7 @@ Social Media, and more.</p>
             </div>
          </div>
       </div>
-   </div>
+   </div>      
 </section>
 <!-- CHOOSE OUR SEO SECTION --> 
 
