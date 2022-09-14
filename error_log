@@ -1,0 +1,5 @@
+[01-Sep-2022 02:13:10 UTC] PHP Notice:  Undefined index: full_name in /home/yyzqjbxj9end/public_html/mail.php on line 4
+[01-Sep-2022 02:13:10 UTC] PHP Notice:  Undefined index: email_address in /home/yyzqjbxj9end/public_html/mail.php on line 5
+[01-Sep-2022 02:13:10 UTC] PHP Notice:  Undefined index: contact_number in /home/yyzqjbxj9end/public_html/mail.php on line 6
+[01-Sep-2022 02:13:10 UTC] PHP Notice:  Undefined index: country in /home/yyzqjbxj9end/public_html/mail.php on line 7
+[01-Sep-2022 02:13:10 UTC] PHP Notice:  Undefined index: user_interest in /home/yyzqjbxj9end/public_html/mail.php on line 8
