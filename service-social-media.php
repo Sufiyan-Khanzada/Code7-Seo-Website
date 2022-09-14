@@ -251,9 +251,14 @@ Midsize and Enterprise Companies</h4>
       <div class="row align-items-center">
          <div class="col-lg-10 mx-auto">
             <div class="inner-banner-text text-center "  data-aos="fade-down" data-aos-duration="1000">
-               <h1>Campaigns built to drive engagement, sales & leads!</h1>
-               <p class="text-white">Partnered up with industries leading social media marketing services providing company to give your brand a chance to breathe fresh air. SEO TOP SEARCH collaborates with experts holding over 10 years of experience in the digital marketing and social media advertising industry. Our skilled team leverages a variety of powerful tools and analytical data to establish a robust and custom approach to enhance your brand’s visibility.</p>
-                <p class="text-white">We struggle to invest our time in unifying social media efforts that suit your brand and business goals well.</p>
+               <h1>Efforts crafted to generate interest, revenue, and new leads!</h1>
+               <p class="text-white">We've joined up with a pioneer in social media marketing to open up new horizons for your 
+business. SEO TOP SEARCH works with professionals that have more than ten years of 
+expertise in online marketing and social media promotion. Our experienced team uses a wide 
+range of effective resources and data analytics to develop a strategic plan tailored to increase 
+your brand's exposure.</p>
+                <p class="text-white">Despite our best efforts, we have been unable to successfully integrate our social media efforts to 
+produce results that are in line with your brand and business objectives.</p>
                <img src="images/partners.png"  data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200" data-aos-offset="0" class="brand-img img-responsive" alt="Banner">
             </div>
          </div>
@@ -284,7 +289,7 @@ Midsize and Enterprise Companies</h4>
                <span class="head-upper"></span>
                <span class="head-after"></span>
             </div>
-            <h3 class="section-head">How are we going to promote your business?</h3>
+            <h3 class="section-head">Let's talk about how we can spread the word about your company?</h3>
          </div>
       </div>
       <div class="timeline-middlepath">
@@ -301,8 +306,9 @@ Midsize and Enterprise Companies</h4>
             <div class="col-md-5 col-sm-6 col-9">
                <div class="time-desc"  data-aos="fade-right" data-aos-duration="1000">
                   <span>01</span>
-                  <span class="box-head text-uppercase">Social Research</span>
-                  <p>Understanding each aspect of the social media platform, from demographics to knowing the right audience, we ensure to keep everything in the record to craft the finest strategy. </p>
+                  <span class="box-head text-uppercase">SOCIAL STUDIES</span>
+                  <p>We make sure to document all we learn to develop the best plan for the social media platform, 
+from demographics to recognizing the correct audience. </p>
                </div>
             </div>
             <div class="col-md-5 col-sm-6 col-3  offset-md-2">
@@ -322,8 +328,9 @@ Midsize and Enterprise Companies</h4>
             <div class="col-md-5 col-sm-6  col-9 offset-md-2">
                <div class="time-desc"  data-aos="fade-left" data-aos-duration="1000">
                   <span>02</span>
-                     <span class="box-head text-uppercase">Building Influence</span>
-                  <p>With our high-quality content creation, we make sure to increase the traffic on your brand, leading it to gain popularity and ultimately turned into an incredible influence. </p>
+                     <span class="box-head text-uppercase">EFFECTIVE POWER BUILDING</span>
+                  <p>We guarantee a rise in site visitors by producing material of the highest quality, which will help 
+your business become more well-known and influential.</p>
                </div>
             </div>
          </div>
@@ -333,8 +340,9 @@ Midsize and Enterprise Companies</h4>
             <div class="col-md-5 col-sm-6 col-9">
                <div class="time-desc"  data-aos="fade-right" data-aos-duration="1000">
                   <span>03</span>
-                  <span class="box-head text-uppercase">Social Media Ad Creation</span>
-                  <p>From designing graphical posters to designing elements and writing a copy, our social media team takes every necessary step to provide you the satisfactory SMM services.</p>
+                  <span class="box-head text-uppercase">The Making of Commercials for Social Networking Sites</span>
+                  <p>Our social media experts will create anything from graphical posters to design components and 
+content for your social media marketing needs.</p>
                </div>
             </div>
             <div class="col-md-5 col-sm-6 col-3  offset-md-2">
@@ -354,8 +362,9 @@ Midsize and Enterprise Companies</h4>
             <div class="col-md-5 col-sm-6 col-9 offset-md-2">
                <div class="time-desc"  data-aos="fade-left" data-aos-duration="1000">
                   <span>04</span>
-                  <span class="box-head text-uppercase">Monthly Reporting</span>
-                  <p>Our efforts do not cease after creating visibility for your brand. Every month our team will provide you a detailed report to evaluate your success.</p>
+                  <span class="box-head text-uppercase">MONTHLY REPORTS</span>
+                  <p>After boosting your company's profile, we won't stop working for you. Our staff will give you a 
+monthly report so you can track your progress and gauge your level of achievement.</p>
                </div>
             </div>
          </div>
@@ -409,9 +418,10 @@ Midsize and Enterprise Companies</h4>
                   <span class="head-upper"></span>
                   <span class="head-after"></span>
                </div>
-               <h3 class="section-head">Get 360° SMM Services at budget-friendly Plans
+               <h3 class="section-head">To that end, we assist new businesses and established companies in maximizing their revenue and consumer involvement.
                </h3>
-               <p>We help you elevate digital Interaction with your leads through pocket-friendly social medial marketing.</p>
+               <p>We have customers in a wide variety of fields, including healthcare, instruction, transportation, 
+media, consulting, hospitality, law, and financial technology.</p>
             </div>
          </div>
       </div>

@@ -249,8 +249,16 @@ Midsize and Enterprise Companies</h4>
       <div class="row align-items-center">
          <div class="col-lg-10 mx-auto">
             <div class="inner-banner-text text-center "  data-aos="fade-down" data-aos-duration="1000">
-               <h1>Why Our SEO Services Matters for Businesses?</h1>
-               <p class="text-white">In today’s fast-paced world no one can overlook the significance of search engine optimization for business ultimate growth. No matter if you want to lay a strong foundation for your business or you want to target new leads, SEO is the ideal option to meet all your new-age marketing needs.</p>
+               <h1>Brand loyalty is the key to sustained company growth:</h1>
+               <p class="text-white">We are committed to maintaining our position as the industry's premier SEO firm by providing 
+our clients with the most effective SEO solutions available. Our opinion is that even the most 
+well - designed website will fail to pay for itself if no one visits it. We'll go to work making sure 
+your site rises to the top of search engine rankings. We are a top digital marketing agency staffed 
+by a group of dedicated web professionals who are also searching engine optimization 
+professionals and will keep you up to speed on any changes made to your site. We are an 
+experienced and well-educated group that recognizes the value of branding to expand our 
+clientele. We are a professional SEO firm whose main goal is to assist you to generate more 
+qualified leads and improve your return on investment (ROI).</p>
                <img src="images/partners.png"  data-aos="zoom-in" data-aos-duration="1000" data-aos-delay="200" data-aos-offset="0" class="brand-img img-responsive" alt="Banner">
             </div>
          </div>
@@ -294,8 +302,8 @@ Midsize and Enterprise Companies</h4>
             <div class="col-md-5 col-sm-6 col-9">
                <div class="time-desc"  data-aos="fade-right" data-aos-duration="1000">
                   <span>01</span>
-                  <span class="box-head text-uppercase">SEO Consulting & Auditing</span>
-                  <p>We offer free SEO consultation and auditing services to everyone who is interested in elevating their website ranking through in-depth analysis and actionable advice.</p>
+                  <span class="box-head text-uppercase">Link Building</span>
+                  <p>To guide traffic to your website's major pages, our team of great SEO professionals is well-versed in the art of link building.</p>
                </div>
             </div>
             <div class="col-md-5 col-sm-6 col-3  offset-md-2">
@@ -303,7 +311,7 @@ Midsize and Enterprise Companies</h4>
                   <img src="images/timeline1.jpg" alt="Image" class="img-responsive">
                </figure>
             </div>
-         </div>
+         </div>   
       </div>
       <div class="time-box  right-time">
          <div class="row ">
