@@ -95,7 +95,7 @@
                                     <li><a href="service-seo.php" class="dropdown-item"><img src="images/drp-ecommerce.png" alt="">Ecommerce SEO</a></li>
                                     <li><a href="service-local-seo.php" class="dropdown-item"><img src="images/drp-local%20seo.png" alt="">Local SEO Optimization</a></li>
                                     <li><a  href="service-content.php" class="dropdown-item"><img src="images/drp-content%20marketing.png" alt="">Content Marketing</a></li>
-                                    <li><a  href="service-link.php" class="dropdown-item"><img src="images/drp-link.png" alt="">link Building</a></li>
+                                    <li><a  href="service-link.php" class="dropdown-item"><img src="images/drp-link.png" alt="">Link Building</a></li>
                                      <li><a href="service-webcontent.php" class="dropdown-item"><img src="images/drp-web%20content.png" alt="">Website Content</a></li>
                                  </ul>
                               </li>

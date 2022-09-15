@@ -382,15 +382,16 @@ qualified leads and improve your return on investment (ROI).</p>
                   <span class="head-upper"></span>
                   <span class="head-after"></span>
                </div>
-               <h3 class="section-head">Your Ultimate Platform to Rank Higher on Google</h3>
-               <p>From achieving top raking to generating more leads and conversion, we help businesses to outperform their rivals and stay ahead of the curve through effective SEO.</p>
+               <h3 class="section-head">Your Ultimate Google Rank Boosting Platform</h3>
+               <p>We help companies beat their competitors and remain ahead of the curve by generating more leads and 
+conversions via efficient SEO.</p>
                <ul class="theme-list">
-                  <li><p>Affordable Plan</p></li>
-                  <li><p>Custom Strategy</p></li>
-                  <li><p>Certified SEO Team</p></li>
-                  <li><p>Measurable Results</p></li>
-                  <li><p>Guaranteed SEO Results</p></li>
-                  <li><p>Effective Link Building</p></li>
+                  <li><p> Plan that is affordable</p></li>
+                  <li><p>Individualized Strategy</p></li>
+                  <li><p>Certified SEO Group</p></li>
+                  <li><p> Measurable Outcomes</p></li>
+                  <li><p> SEO Results Guaranteed</p></li>
+                  <li><p> Link Building That Works</p></li>
                </ul>
                <a class="theme-btn light-gradient" href="grow-form.php">Lets Grow Your Business</a>
             </div>
@@ -410,9 +411,10 @@ qualified leads and improve your return on investment (ROI).</p>
                   <span class="head-upper"></span>
                   <span class="head-after"></span>
                </div>
-               <h3 class="section-head">Establish Your eCommerce Business at Budget-Friendly Plans
+               <h3 class="section-head">Launch an Internet Storefront for a Low Initial Investment:
                </h3>
-               <p>Speak with our team of eCommerce SEO experts if you want to take your eCommerce performance to the next level at budget-friendly packages.</p>
+               <p>If you want to improve the performance of your ecommerce site at affordable prices, talk to our 
+team of ecommerce SEO professionals.</p>
             </div>
          </div>
       </div>
