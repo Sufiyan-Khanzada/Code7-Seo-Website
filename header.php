@@ -16,7 +16,31 @@
       <link href="css/custom.css" rel="stylesheet">
       
        <link rel=“canonical” href="https://seotopsearch.com"/>
-   </head>
+       <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "SEO Top Seach",
+  "image": "https://seotopsearch.com/images/seo%20logo.png",
+  "@id": "https://seotopsearch.com/images/seo%20logo.png",
+  "url": "https://seotopsearch.com",
+  "telephone": "+1-212-913-9084",
+  "priceRange": "100",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "3522 Gray Ridge Ct, Houston, TX 77082, USA",
+    "addressLocality": "Houston",
+    "addressRegion": "TX",
+    "postalCode": "77082",
+    "addressCountry": "US"
+  } ,
+  "sameAs": [
+    "https://fb.com/seotopsearch",
+    "https://twitter.com/seotopsearch",
+    "https://instagram.com/seotopsearch"
+  ] 
+}
+</script>
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-232809786-1"></script>
 <script>
@@ -26,6 +50,11 @@
 
   gtag('config', 'UA-232809786-1');
 </script>
+
+   </head>
+
+
+
 
 <header id="header" style="background-color: #313131; color: white; padding: 0px 0;">
          <div class="container-fluid">
