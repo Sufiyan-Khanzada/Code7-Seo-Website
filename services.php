@@ -323,8 +323,10 @@ qualified leads and improve your return on investment (ROI).</p>
             <div class="col-md-5 col-sm-6  col-9 offset-md-2">
                <div class="time-desc"  data-aos="fade-left" data-aos-duration="1000">
                   <span>02</span>
-                     <span class="box-head text-uppercase">On-Page SEO</span>
-                  <p>With on-page SEO we target all keywords on website content to optimize and improve website ranking over the specified search engine.</p>
+                     <span class="box-head text-uppercase">Content</span>
+                  <p>After extensive keyword research and subject development, we curate high-quality material that 
+is SEO-friendly. We create material that is compelling enough to attract the desired 
+demographic.</p>
                </div>
             </div>
          </div>
@@ -334,8 +336,9 @@ qualified leads and improve your return on investment (ROI).</p>
             <div class="col-md-5 col-sm-6 col-9">
                <div class="time-desc"  data-aos="fade-right" data-aos-duration="1000">
                   <span>03</span>
-                  <span class="box-head text-uppercase">OFF-Page SEO</span>
-                  <p>By off-page SEO our experienced team creates powerful backlinks of the targeted keywords to enhance the visibility of your website.</p>
+                  <span class="box-head text-uppercase">Strategizing</span>
+                  <p>So that our material may bring in targeted visitors and boost your brand, we keep up with 
+industry trends and implement them into our strategy.</p>
                </div>
             </div>
             <div class="col-md-5 col-sm-6 col-3  offset-md-2">
@@ -355,8 +358,9 @@ qualified leads and improve your return on investment (ROI).</p>
             <div class="col-md-5 col-sm-6 col-9 offset-md-2">
                <div class="time-desc"  data-aos="fade-left" data-aos-duration="1000">
                   <span>04</span>
-                  <span class="box-head text-uppercase">SEO Metrics Reporting</span>
-                  <p>After successful on-page and off-page optimization, we build an SEO report to showcase your targeted keyword position & performance.</p>
+                  <span class="box-head text-uppercase">Analyze & Optimize</span>
+                  <p>After the links have been updated and traffic has increased, our staff will investigate, evaluate, 
+and enhance your site's rankings.</p>
                </div>
             </div>
          </div>
