@@ -370,6 +370,57 @@ and enhance your site's rankings.</p>
    <img src="images/ranking-img-bg.png" alt="Image" class="img-responsive">
    </span> -->
 </section>
+
+
+
+
+
+
+<section  class="grey-bg struggle-section all-section">
+   <div class="container">
+      <div class="row align-items-center order-change">
+         <div class="col-sm-6">
+            <div data-aos="zoom-in" data-aos-duration="1000">
+               <img src="images/seo-concept.png" alt="Image" class="img-responsive">
+            </div>
+         </div>
+         <div class="col-sm-6">
+            <div class="struggle-text" data-aos="fade-left" data-aos-duration="1000">
+               <div class="top-head">
+                  <span class="head-upper"></span>
+                  <span class="head-after"></span>
+               </div>
+               <h3 class="section-head">Is It Important for Companies to Use Our SEO Services?</h3>
+               <p>Nobody in today's fast-paced world can ignore the importance of SEO for a company's long-term 
+success. SEO is the optimal choice for all your cutting-edge advertising demands, whether you're 
+looking to establish a solid footing for your organization or attract new customers. We guarantee 
+to provide quality results that meet your specific needs.</p>
+<h3 class="section-head">SEARCH ENGINE OPTIMIZATION ADVISORY AND EVALUATION:</h3>
+<p>Everybody who wants to improve their website's visibility may take advantage of our free SEO 
+evaluation and consultancy services</p>
+               <ul class="theme-list">
+                  <li><p><b> On-Page SEO </b></p>
+                  <p>In on-page SEO, we optimize and increase a website's rating in a search engine by focusing on 
+certain keywords inside the text of the website itself.</p>
+               </li>
+
+                  <li><p> <b>Off-Page SEO</b></p>
+               <p>To boost your website's rankings, our team uses off-site SEO to build authoritative backlinks 
+based on your chosen keywords.
+</p></li>
+<br>
+                  <li><p><b>ANALYZING AND REPORTING ON SEO DATA</b></p>
+               <p>To boost your website's rankings, our team uses off-site SEO to build authoritative backlinks 
+based on your chosen keywords.
+</p></li>
+                  
+               </ul>
+               <a class="theme-btn light-gradient" href="grow-form.php">Lets Grow Your Business</a>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
 <!-- END: TIMELINE SECTION -->
 <!-- BEGIN: STRUGGLE SECTION -->
 <section  class="grey-bg struggle-section all-section">
@@ -415,7 +466,7 @@ conversions via efficient SEO.</p>
                   <span class="head-upper"></span>
                   <span class="head-after"></span>
                </div>
-               <h3 class="section-head">Launch an Internet Storefront for a Low Initial Investment:
+               <h3 class="section-head">Launch an Internet Storefront for a Low Initial Investment
                </h3>
                <p>If you want to improve the performance of your ecommerce site at affordable prices, talk to our 
 team of ecommerce SEO professionals.</p>
