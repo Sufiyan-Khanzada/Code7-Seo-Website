@@ -7,11 +7,12 @@
       <meta charset="utf-8">
       <meta content="IE=edge" http-equiv="X-UA-Compatible">
       <meta content="width=device-width, initial-scale=1" name="viewport">
-      <meta content="Professional SEO Services in USA | SEOTopSearch" name="description">
-      <meta content="Professional SEO Services in USA | SEOTopSearch" name="keywords">
-      <meta content="" name="author">
+      
+      <meta content="SEO Top Search is a digital marketing firm that places a whole marketing team of SEO experts, 
+      content strategists, and content writers, in charge of your campaign." name="description">
+      
        <link href="images/favicon.ico" rel="icon">
-      <title>Professional SEO Services in USA | SEARCHMETOP</title>
+      <title>Affordable SEO Services Agency | Digital Marketing Company</title>
       <link href="css/all.css" rel="stylesheet">
       <link href="css/custom.css" rel="stylesheet">
       
