@@ -1,11 +1,15 @@
+<html>
+   <head>
+   <meta content="We are providing digital marketing and SEO services agency staffed by a group of dedicated online marketing professionals." name="description">
+<title>Search Engine Optimization Agency | SEO Specialist</title>
 
+
+</head>
    <body>
    
     <!-- BEGIN: HEADER SECTION -->
       <?php require 'header.php'; ?>
       <!-- END: HEADER SECTION -->
-<meta content="We are providing digital marketing and SEO services agency staffed by a group of dedicated online marketing professionals." name="description">
-<title>Search Engine Optimization Agency | SEO Specialist</title>
 
 
 

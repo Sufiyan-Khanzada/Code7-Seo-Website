@@ -1,4 +1,13 @@
+<html>
+   <head>
+   <title>
+   Affordable SEO Services Agency | Digital Marketing Company
+</title>
 
+<meta content="SEO Top Search is a digital marketing firm that places a whole marketing team of SEO experts, 
+      content strategists, and content writers, in charge of your campaign." name="description">
+
+</head>
    <body>
       <!-- BEGIN: HEADER SECTION -->
       <?php require 'header.php'; ?>

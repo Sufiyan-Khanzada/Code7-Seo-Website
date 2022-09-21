@@ -1,4 +1,14 @@
 
+   <html>
+   <head>
+   <title>Website Content Writing Services Agency | SEO Article Writing</title>
+   
+   <meta content="Professionals at SEO TOP SEARCH develop attention-grabbing content to express your brand's narrative and influence consumers' purchasing choices." name="description">
+
+
+</head>
+
+   
    <body><!-- BEGIN: HEADER -->
 
    
@@ -6,11 +16,11 @@
       <?php require 'header.php'; ?>
       <!-- END: HEADER SECTION -->
 
-      <meta content="Professionals at SEO TOP SEARCH develop attention-grabbing content to express your brand's narrative and influence consumers' purchasing choices." name="description">
+      
 
 
 
-<title>Website Content Writing Services Agency | SEO Article Writing</title>
+
 
 
 

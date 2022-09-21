@@ -1,19 +1,5 @@
-<!DOCTYPE html>
-<html lang="zxx">
-   
-<!-- Mirrored from searchmetop.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 16 Jun 2022 16:08:39 GMT -->
-<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
-<head>
-      <meta charset="utf-8">
-      <meta content="IE=edge" http-equiv="X-UA-Compatible">
-      <meta content="width=device-width, initial-scale=1" name="viewport">
-      
-      <meta content="SEO Top Search is a digital marketing firm that places a whole marketing team of SEO experts, 
-      content strategists, and content writers, in charge of your campaign." name="description">
-      
        <link href="images/favicon.ico" rel="icon">
-      <title>Affordable SEO Services Agency | Digital Marketing Company</title>
-      <link href="css/all.css" rel="stylesheet">
+       <link href="css/all.css" rel="stylesheet">
       <link href="css/custom.css" rel="stylesheet">
       
        <link rel=“canonical” href="https://seotopsearch.com"/>
