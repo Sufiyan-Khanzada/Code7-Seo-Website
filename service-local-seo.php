@@ -5,6 +5,8 @@
       <?php require 'header.php'; ?>
       <!-- END: HEADER SECTION -->
 
+      <meta content="SEO Top Search provides most dependable Local SEO solutions to brands for their website that ranks on search engines." name="description">
+      <title>Best Local SEO Services Company | Local SEO Provider</title>
 
 
 

@@ -6,6 +6,11 @@
       <?php require 'header.php'; ?>
       <!-- END: HEADER SECTION -->
 
+      <meta content="Our top-tier SEO specialists will make sure that your eCommerce site is optimized to generate a positive return on investment." name="description">
+
+
+
+<title>Best Ecommerce SEO Services Agency | Ecommerce SEO Consultant</title>
 
 
 
